@@ -1,1 +1,2 @@
-# ICA_exercise
+# ICA_assignments
+## CH2
